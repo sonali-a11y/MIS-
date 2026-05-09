@@ -1,0 +1,10 @@
+{
+  "client1": {
+    "password": "1234",
+    "tb": "TB_CSV_LINK",
+    "mapping": "MAPPING_CSV_LINK",
+    "ar": "AR_CSV_LINK",
+    "ap": "AP_CSV_LINK",
+    "project": "PROJECT_CSV_LINK"
+  }
+}
