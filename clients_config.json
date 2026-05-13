@@ -1,15 +1,10 @@
 {
   "client1": {
     "password": "1234",
-    "tb": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=291331177#gid=291331177/export?format=csv&gid=0",
-    "mapping": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=224576427#gid=224576427/export?format=csv&gid=0
-",
-    "ar": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=513754208#gid=513754208/export?format=csv&gid=0
-",
-    "ap": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=401663047#gid=401663047/export?format=csv&gid=0
-",
-    "project": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=692709604#gid=692709604/export?format=csv&gid=0
-",
-    "budget": "https://docs.google.com/spreadsheets/d/1HVOyfEcfU-rl3cfYnvPNAeqEVZbkzpfa/edit?gid=1176816052#gid=1176816052/export?format=csv&gid=0"
+    "tb": "TB_CSV_LINK",
+    "mapping": "MAPPING_CSV_LINK",
+    "ar": "AR_CSV_LINK",
+    "ap": "AP_CSV_LINK",
+    "project": "PROJECT_CSV_LINK"
   }
 }
